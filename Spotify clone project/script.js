@@ -1,5 +1,5 @@
 console.log("Welcome to Spotify")
-
+//Random comment
 
 // Initialize the Variables
 let songIndex=0;
